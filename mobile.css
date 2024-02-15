@@ -22,6 +22,7 @@
         width: 91%;
         background-color: #00533F;
         text-align: center;
+        z-index: 90;
     }
 
     .navbar-links li {
@@ -30,6 +31,7 @@
 /* banner */
 .banner{
     max-width: 425px;
+    height: 150px;
 }
 .socail-icons{
     visibility: hidden;
@@ -53,6 +55,7 @@
     margin-bottom: 20px;
     width: 300px;
     margin-left: 80px;
+   
 }
 .content1-photo{
     width: 200px;
@@ -81,5 +84,10 @@
     float: left;
     font-size: 15px;
 }
+
+.notices{
+    height: 80px;
+}
+
 
 }

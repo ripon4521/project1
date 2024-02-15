@@ -1,11 +1,14 @@
 *{
     border: 0;
     margin: 0;
+    
 }
 body{
     width: 1400px;
     margin: auto;
     font-family:  sans-serif;
+    box-shadow: 5px 5px 5px 5px #d1cdcd;
+
 }
 
 .navlink{
@@ -97,11 +100,17 @@ input[type="search"]::placeholder {
     
 }
 .bg{
-    background-color: #EEEEEE; height: 70px; margin-top: 40px;
+    background-color: #EEEEEE;
+     height: 60px;
+    
+     width: 500px;
+     margin-left: 150px;
+     margin-top: 40px;
+    
     
 }
 .content1-photo{
-    width: 400px;
+    /* width: 400px; */
     float: right;
     margin-top: 40px;
 }
@@ -136,8 +145,14 @@ input[type="search"]::placeholder {
 .content3 h3:hover{
     color:#068a6b;
 }
+
+
 .pragraph{
     margin-left: 250px; color: white;
+}
+
+.notices{
+    background-color: #EEEEEE; padding: 10px; margin-top: -5px; display: flex; justify-content: space-between; align-items: center; cursor: pointer;
 }
 
 
