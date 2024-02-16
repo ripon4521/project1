@@ -103,8 +103,8 @@ input[type="search"]::placeholder {
     background-color: #EEEEEE;
      height: 60px;
     
-     width: 500px;
-     margin-left: 150px;
+     width: 300px;
+     margin-left: 300px;
      margin-top: 40px;
     
     
@@ -112,6 +112,7 @@ input[type="search"]::placeholder {
 .content1-photo{
     /* width: 400px; */
     float: right;
+    margin-right: 50px;
     margin-top: 40px;
 }
 
