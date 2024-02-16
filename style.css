@@ -112,6 +112,7 @@ input[type="search"]::placeholder {
 .content1-photo{
     /* width: 400px; */
     float: right;
+
     margin-right: 50px;
     margin-top: 40px;
 }
