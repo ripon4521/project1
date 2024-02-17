@@ -103,17 +103,17 @@ input[type="search"]::placeholder {
     background-color: #EEEEEE;
      height: 50px;
     
-     width: 450px;
+     width: 600px;
      /* margin-left: 300px; */
      margin-top: 40px;
     
     
 }
 .content1-photo{
-    width: 460px;
+    width: 600px;
     float: right;
 
-    margin-right: 190px;
+    margin-right: 50px;
     margin-top: 40px;
 }
 
