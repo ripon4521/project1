@@ -52,16 +52,16 @@
 }
 .bg{
     height: 50px;
-    margin-bottom: 20px;
+    /* margin-bottom: 20px; */
     width: 300px;
-    margin-left: 80px;
+    margin-left: 10px;
    
 }
 .content1-photo{
     width: 380px;
     margin-right: 0px;
     float: right;
-    margin-top: 40px;
+    margin-top: 20px;
 }
 .content2{
  
