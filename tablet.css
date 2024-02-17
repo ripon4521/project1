@@ -44,12 +44,13 @@
     .bg{
         height: 60px;
         margin-bottom: 0px;
-        width: 450px;
-        margin-left: 80px;
+        width: 680px;
+        /* margin-left: 80px; */
     }
     .content1-photo{
-        
-        margin-right: 10px;
+        width: 680px;
+        margin-right: 0px;
+        margin-left: 20px;
        
     }
     .content2{
